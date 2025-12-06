@@ -89,14 +89,12 @@ project-folder/
 
 ### Original Image
 
-*(Replace with your actual colorful image)*
 ![Original Image](photo.jpeg)
 
 ---
 
 ### Grayscale Result
 
-*(If you choose to save it in your script)*
 ![Grayscale Result](gray_photo.jpg)
 
 ---
