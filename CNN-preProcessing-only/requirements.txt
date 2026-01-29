@@ -1,4 +1,0 @@
-numpy>=1.23
-matplotlib>=3.5
-pillow>=9.0
-jupyterlab>=4.0   # optional; useful if you want to run as a notebook
